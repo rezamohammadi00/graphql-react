@@ -1,0 +1,10 @@
+pnpm add graphql-request graphql
+
+------------------------------------------------
+
+pnpm add @tanstack/react-query
+
+pnpm add -D @tanstack/eslint-plugin-query
+pnpm add @tanstack/react-query-devtools
+
+------------------------------------------------
